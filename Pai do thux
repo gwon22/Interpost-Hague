@@ -1,0 +1,6 @@
+/obj/structure/Skilltester
+    name = "Piloto"
+    desc = "Use para pilotar"
+    icon_state = "Piloto"
+    density = 1
+    anchored = 1
